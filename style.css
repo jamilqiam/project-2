@@ -1,0 +1,192 @@
+body {
+    background: #EDEDED;
+
+}
+.container {
+    width: 375px;
+    height: 1767px;
+    background: #EDEDED;
+    margin: 10px auto 0 auto;
+
+
+}
+
+
+.header {
+     background-color:#fff;
+     border: 0px 0px 1px 0px;
+    padding: 16px 16px 17px 15px;
+    border-bottom: 1px solid #C6C6C6
+}
+
+.logo {
+    width: 127px;
+    height: 33.02000045776367px;
+    top: 16px;
+    left: 15px;
+    color: #000000;
+}
+
+.per-I {
+    margin: -37px 6px 3px 315px;
+}
+
+.per {
+    width: 34px;
+    height: 34px;
+    top: 16px;
+    left: 325px;
+}
+
+.main {
+    width: 376px;
+    height: 545px;
+    top: 67px;
+    background: #FFFFFF;
+
+}
+
+.top {
+    display: flex;
+
+}
+
+
+.person {
+    padding: 10px 10px 10px 19px;
+}
+
+.person-I {
+    width: 34px;
+    height: 34px;
+    top: 10px;
+    left: 10px;
+}
+
+.name {
+    width: 307px;
+    height: 16px;
+    font-family: Source Sans Pro;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+    margin-bottom: -10px;
+
+
+}
+
+.location {
+    width: 307px;
+    height: 15px;
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+
+.post {
+    width: 375px;
+    height: 375px;
+    top: 55px;
+
+    
+}
+
+
+.status {
+    width: 345.97332763671875px;
+    height: 78px;
+    margin: 10px 10px 10px 10px;
+
+}
+
+.icons {
+    
+    height: 22.134628295898438px;
+
+}
+
+.like {
+    width: 30.361738204956055px;
+    height: 26.134628295898438px;
+
+}
+
+.coment {
+    width: 27.703365325927734px;
+    height: 26.653621673583984px;
+    margin: 0 10px 0 10px;
+    
+
+} 
+
+.share {
+    width: 24.443275451660156px;
+    height: 22.652986526489258px; 
+}
+
+.para {
+    margin-left: 10px;
+}
+
+.para-I {
+    width: 343px;
+    height: 16px;
+    font-family: Source Sans Pro;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left; 
+    color: #000000;
+
+
+}
+
+.para-II {
+    width: 343px;
+    height: 16px;
+    font-family: Source Sans Pro;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.hich {
+    font-family: Source Sans Pro;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+        
+}
+
+.content {
+    margin-top: 55px;
+    width: 375px;
+    height: 545px;
+    top: 637px;
+    background-color: #ffffff;
+}
+
+
+.buttom {
+    background: #FFFFFF;
+    width: 375px;
+    height: 560px;
+    top: 1207px;
+    margin-top: 55px;
+
+}
